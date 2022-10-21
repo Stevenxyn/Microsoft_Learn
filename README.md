@@ -12,4 +12,4 @@ Como tal empezare todo desde cero, solamente tengo conocimientos básicos en Pro
 Menciono que todo estos cursos se pueden encontrar en **Microsoft Learn** retroalimentare con algunos tutoriales y practicas desde **YouTube** pero la esencia de esto será **Microsoft 😊**
 
 
-> Inicio esta ruta de estudio 20/10/22 <3
+> Per aspera ad astra ✨ 20/10/22 
