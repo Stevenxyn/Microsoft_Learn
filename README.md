@@ -5,7 +5,7 @@ Hola! Soy Steven y esta será mi ruta de estudio creada a lo que me ha empezado 
 Como tal empezare todo desde cero, solamente tengo conocimientos básicos en Programación en JavaScript, lo que estudiare a continuación es un mundo nuevo y que pronto descubriré.
 
 - Fundamentos en Azure
-- Transact SQL
+- SQL
 - Linux y shell
 - Python 
 
