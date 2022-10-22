@@ -9,7 +9,7 @@ Como tal empezare todo desde cero, solamente tengo conocimientos básicos en Pro
 - Linux y shell
 - Python 
 
-Menciono que todo estos cursos se pueden encontrar en **Microsoft Learn** retroalimentare con algunos tutoriales y practicas desde **YouTube** pero la esencia de esto será **Microsoft 😊**
+Menciono que todo estos cursos se pueden encontrar en **Microsoft Learn** retroalimentare con algunos tutoriales y practicas desde **YouTube** pero la escencia de esto será **Microsoft 😊**
 
 
 > Per aspera ad astra ✨ 20/10/22 
